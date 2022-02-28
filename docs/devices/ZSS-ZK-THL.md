@@ -36,7 +36,8 @@ this device work fine when connected to any hub through a relay device.
 
 ### Usage limitation
 
-The device reports illuminance variations instantly. Therefore temperature is reported each hour making this device useless for building a thermostat.
+The device reports illuminance variations instantly.
+Temperature is reported every 0.3°C, OK for building a thermostat except it freezes each 2 or 3 weeks
 <!-- Notes END: Do not edit below this line -->
 
 
